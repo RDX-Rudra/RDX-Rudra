@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - https://rudra-portfolio-eight.vercel.app/
-- https://netflix-mu-seven.vercel.app/
+- https://netflix-rudra-das-projects.vercel.app/
   
 
 <!---
