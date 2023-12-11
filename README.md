@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- C, Java, Python, Ocaml, Dsa, HTML, CSS, Javascript, React.js
 - https://rudra-portfolio-eight.vercel.app/
 - https://netflix-rudra-das-projects.vercel.app/
   
