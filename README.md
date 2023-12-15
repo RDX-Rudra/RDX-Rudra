@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 - C, Java, Python, Ocaml, Dsa, HTML, CSS, Javascript, React.js
 - https://rudra-portfolio-eight.vercel.app/
-- https://netflix-rudra-das-projects.vercel.app/
+- [https://netflix-rudra-das-projects.vercel.app/](https://netflix-p4wt4xz9v-rudra-das-projects.vercel.app/)
   
 
 <!---
