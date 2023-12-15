@@ -1,25 +1,23 @@
 <h1 align="center">Hi 👋, I'm Rudra Das</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jfhfh" alt="jfhfh" /></a> </p>
-
-- 🔭 I’m currently working on [Netflix](afsggs)
+- 🔭 I’m currently working on [Netflix](https://netflix-p4wt4xz9v-rudra-das-projects.vercel.app/)
 
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on [Cgdsg](hdsgsjh)
+- 👯 I’m looking to collaborate on [Projects]()
 
-- 🤝 I’m looking for help with [ghsdhgds](jdsghds)
+- 🤝 I’m looking for help with []()
 
-- 👨‍💻 All of my projects are available at [portgf](portgf)
+- 👨‍💻 All of my projects are available at [My Rortfolio]([portgf](https://my-portfolio-alpha-tan-82.vercel.app/))
 
 - 📝 I regularly write articles on [blog](blog)
 
-- 💬 Ask me about **Dsa**
+- 💬 Ask me about **DSA**
 
-- 📫 How to reach me **rgdts**
+- 📫 How to reach me **dasrudra234@gmail.com**
 
-- 📄 Know about my experiences [resume](resume)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1mubYsGt1-DVEDvqEGr_89-2RbJVlYMnf/view?usp=sharing)
 
 - ⚡ Fun fact **redsg**
 
