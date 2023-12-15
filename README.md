@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with []()
 
-- 👨‍💻 All of my projects are available at [My Rortfolio]([portgf](https://my-portfolio-alpha-tan-82.vercel.app/))
+- 👨‍💻 All of my projects are available at [My Rortfolio](https://my-portfolio-alpha-tan-82.vercel.app/)
 
 - 📝 I regularly write articles on [blog](blog)
 
