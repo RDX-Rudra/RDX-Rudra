@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-- 🔭 I’m currently working on [Netflix](https://netflix-p4wt4xz9v-rudra-das-projects.vercel.app/)
+- 🔭 I’m currently a Student
 
 - 🌱 I’m currently learning **React**
 
@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [resume](https://drive.google.com/file/d/1mubYsGt1-DVEDvqEGr_89-2RbJVlYMnf/view?usp=sharing)
 
-- ⚡ Fun fact **redsg**
+- ⚡ Netflix Project [Netflix](https://netflix-p4wt4xz9v-rudra-das-projects.vercel.app/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
