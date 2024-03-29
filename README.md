@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [portgf](https://my-portfolio-alpha-tan-82.vercel.app/)
 
-- 💬 Ask me about **Dsa**
+- 💬 Ask me about [Dsa](https://github.com/RDX-Rudra/javaFiles/tree/main/Leetcode_Problems)
 
 - 📫 How to reach me **GitHub**
 
