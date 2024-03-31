@@ -45,6 +45,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RDX-Rudra&show_icons=true&locale=en" alt="RDX-Rudra" /></p>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/rdx_rudra?ext=heatmap)  ![50 LeetCode Problems Solved](![image](https://github.com/RDX-Rudra/RDX-Rudra/assets/129542812/34dba76b-cd50-4ecf-9eb0-523ee7a959be)
+![Leetcode Stats](https://leetcard.jacoblin.cool/rdx_rudra?ext=heatmap)  (![image](https://github.com/RDX-Rudra/RDX-Rudra/assets/129542812/34dba76b-cd50-4ecf-9eb0-523ee7a959be)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RDX-Rudra&" alt="RDX-Rudra" /></p>
