@@ -47,7 +47,7 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/rdx_rudra?ext=heatmap)
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=RDX-Rudra&show_icons=true&locale=en&layout=compact" alt="RDX-Rudra" /></p>
+<p><img align="center" src="https://github.com/RDX-Rudra/RDX-Rudra/assets/129542812/34dba76b-cd50-4ecf-9eb0-523ee7a959be" alt="RDX-Rudra" /></p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RDX-Rudra&" alt="RDX-Rudra" /></p>
