@@ -1,10 +1,9 @@
 <h1 align="center">Hi [<img src = "https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/>], I'm Rudra Das</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&color=%2302A700&size=28&lines=Hi...+This+is+Mohd+Kaif+)](https://git.io/typing-svg)
+<h3 align="center">A passionate frontend developer from India</h3>(https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" height="400" align="right">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RDX-Rudra&label=Profile%20views&color=0e75b6&style=flat" alt="kaifcoder" /> </p>
+<p align="left"> <img src="https://github.com/ghpvc/?username=RDX-Rudra&label=Profile%20views&color=0e75b6&style=flat" alt="kaifcoder" /> </p>
 
 - 🔭 I’m currently a Student
 
