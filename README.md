@@ -47,7 +47,8 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/rdx_rudra?ext=heatmap)
 
-<p><img align="center" src="https://github.com/RDX-Rudra/RDX-Rudra/assets/129542812/34dba76b-cd50-4ecf-9eb0-523ee7a959be" alt="RDX-Rudra" /></p>
+<p><img align="left" src="https://github.com/RDX-Rudra/RDX-Rudra/assets/129542812/34dba76b-cd50-4ecf-9eb0-523ee7a959be" alt="RDX-Rudra" /></p>
+<p><img align="center" src="![image](https://github.com/RDX-Rudra/RDX-Rudra/assets/129542812/bc1141d3-dcdd-4920-8733-2c45348e13c1)" alt="RDX-Rudra" /></p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RDX-Rudra&" alt="RDX-Rudra" /></p>
