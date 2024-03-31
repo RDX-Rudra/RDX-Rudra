@@ -20,6 +20,9 @@
 
 - ⚡ Netflix Project [Netflix](https://netflix-p4wt4xz9v-rudra-das-projects.vercel.app/)
 
+<p><img align="center" src="https://github.com/RDX-Rudra/RDX-Rudra/assets/129542812/192b5389-6861-422e-aa63-415b908efb0a
+" alt="RDX-Rudra" /></p> 
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
