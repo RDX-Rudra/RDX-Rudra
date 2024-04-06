@@ -3,23 +3,23 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" height="400" align="right">
 
-- 🔭 I’m currently a Student
+-   I’m currently a Student
 
-- 🌱 I’m currently learning **React**
+-   I’m currently learning **Spring Boot**
 
-- 👯 I’m looking to collaborate on [Projects](https://my-portfolio-alpha-tan-82.vercel.app/)
+-   I’m looking to collaborate on [Projects](https://my-portfolio-alpha-tan-82.vercel.app/)
 
-- 🤝 I’m looking for help with [Block Chain Devlopment](jdsghds)
+-   I’m looking for help with [java stack](jdsghds)
 
-- 👨‍💻 All of my projects are available at [portgf](https://my-portfolio-alpha-tan-82.vercel.app/)
+-   All of my projects are available at [portgf](https://my-portfolio-alpha-tan-82.vercel.app/)
 
-- 💬 Ask me about [Dsa](https://github.com/RDX-Rudra/javaFiles/tree/main/Leetcode_Problems)
+-   Ask me about [Dsa](https://github.com/RDX-Rudra/javaFiles/tree/main/Leetcode_Problems)
 
-- 📫 How to reach me **GitHub**
+-    How to reach me **GitHub**
 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1mubYsGt1-DVEDvqEGr_89-2RbJVlYMnf/view?usp=sharing)
+-   Know about my experiences [resume](https://drive.google.com/file/d/1mubYsGt1-DVEDvqEGr_89-2RbJVlYMnf/view?usp=sharing)
 
-- ⚡ Netflix Project [Netflix](https://netflix-p4wt4xz9v-rudra-das-projects.vercel.app/)
+-   Netflix Project [Netflix](https://netflix-p4wt4xz9v-rudra-das-projects.vercel.app/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
