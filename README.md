@@ -47,8 +47,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RDX-Rudra&show_icons=true&locale=en" alt="RDX-Rudra" /></p>
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/rdx_rudra?ext=heatmap)
-- 3 badges
-<p><img align="left" src="https://github.com/RDX-Rudra/RDX-Rudra/assets/129542812/34dba76b-cd50-4ecf-9eb0-523ee7a959be" alt="RDX-Rudra" height="120" width="120"/></p>
+- 5 badges
+<p><img align="left" src="https://github.com/RDX-Rudra/RDX-Rudra/assets/129542812/e0ae3633-ca96-4a1a-80eb-48e7dfd501eb" alt="RDX-Rudra" height="120" width="120"/>
+<img align="left" src="https://github.com/RDX-Rudra/RDX-Rudra/assets/129542812/34dba76b-cd50-4ecf-9eb0-523ee7a959be" alt="RDX-Rudra" height="120" width="120"/>
+</p>
 <p><img align="center" src="https://github.com/RDX-Rudra/RDX-Rudra/assets/129542812/2ab27e5d-bded-4c06-a3f5-34122e75e252" alt="RDX-Rudra" height="120" width="120"/>
     <img align="center" src="https://github.com/RDX-Rudra/RDX-Rudra/assets/129542812/bc1141d3-dcdd-4920-8733-2c45348e13c1" alt="RDX-Rudra" height="120" width="120"/>
 </p>
